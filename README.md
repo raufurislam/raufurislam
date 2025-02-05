@@ -67,7 +67,7 @@ Beyond coding, I have a strong background in <b>graphics design</b> and UI/UX, u
   <img src="https://i.ibb.co.com/ZzJpJtwP/illustrator.png" height="40" alt="Illustrator logo" />
   <img width="12" />
   <img src="https://i.ibb.co.com/6J8s08FB/indesign.png" height="40" alt="InDesign logo" />
-  <img width="11" />
+  <img width="10" />
   <img src="https://i.ibb.co.com/tp5bwLrF/photoshop-lightroom.png" height="40" alt="Lightroom Classic logo" />
   <img width="12" />
   <img src="https://i.ibb.co.com/9m8DGjWY/figma.png" height="40" alt="Figma logo" />
