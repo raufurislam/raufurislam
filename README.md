@@ -110,6 +110,7 @@ Beyond coding, I have a strong background in <b>graphics design</b> and UI/UX, u
 
 
 ###
+<h2 align="left">📈 Social Links</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raufurislam&radius=16&theme=dracula&area=true&order=5&hide_border=true&bg_color=282A36" height="200" alt="activity-graph graph" /> <br>
