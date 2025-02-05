@@ -4,7 +4,9 @@
 
 ###
 
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="left">Raufur Islam Nayem</h1>
+<h3>Junior Full Stack Developer | UI/UX Enthusiast</h3>
+<p>🚀 Passionate about crafting dynamic web applications and intuitive user experiences</p>
 
 ###
 
