@@ -64,7 +64,7 @@ Beyond coding, I have a strong background in <b>graphics design</b> and UI/UX, u
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator logo" />
+  <img src="https://i.ibb.co.com/ZzJpJtwP/illustrator.png" height="40" alt="Illustrator logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/indesign/indesign-plain.svg" height="40" alt="InDesign logo" />
   <img width="12" />
