@@ -51,7 +51,7 @@ const SocialLink = () => {
           href="https://web.facebook.com/raufurislam.nayem"
           target="_blank"
           rel="noopener noreferrer"
-          className="px-4 py-4 rounded-xl bg-neutral text-white transition duration-300 hover:bg-[#1877F2]"
+          className="px-4 py-4 rounded-xl bg-neutral text-secondary transition duration-300 hover:bg-[#1877F2]"
         >
           <FaFacebookF size={32} />
         </a>
@@ -59,7 +59,7 @@ const SocialLink = () => {
           href="https://github.com/raufurislam"
           target="_blank"
           rel="noopener noreferrer"
-          className="px-4 py-4 rounded-xl bg-neutral text-white transition duration-300 hover:bg-[#333]"
+          className="px-4 py-4 rounded-xl bg-neutral text-secondary transition duration-300 hover:bg-[#333]"
         >
           <FiGithub size={32} />
         </a>
@@ -67,7 +67,7 @@ const SocialLink = () => {
           href="https://www.linkedin.com/in/raufur-islam-698030319/"
           target="_blank"
           rel="noopener noreferrer"
-          className="px-4 py-4 rounded-xl bg-neutral text-white transition duration-300 hover:bg-[#0077B5]"
+          className="px-4 py-4 rounded-xl bg-neutral text-secondary transition duration-300 hover:bg-[#0077B5]"
         >
           <FaLinkedinIn size={32} />
         </a>
@@ -75,7 +75,7 @@ const SocialLink = () => {
           href="https://x.com/raufurNayem"
           target="_blank"
           rel="noopener noreferrer"
-          className="px-4 py-4 rounded-xl bg-neutral text-white transition duration-300 hover:bg-[#1DA1F2]"
+          className="px-4 py-4 rounded-xl bg-neutral text-secondary transition duration-300 hover:bg-[#1DA1F2]"
         >
           <FaXTwitter size={32} />
         </a>

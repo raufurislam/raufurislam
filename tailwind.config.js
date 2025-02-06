@@ -6,8 +6,8 @@ export default {
       colors: {
         primary: "#00FFFF", // Example cyan
         neutral: "#13171F", // faded base
-        accent: "#5B5B5B", // Example Amber
-        secondary: "#5B5B5B", // Example Purple
+        secondary: "#8B8B8B", // Example Purple
+        accent: "#5B5B5B", // faded 3
       },
     },
   },
