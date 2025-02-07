@@ -37,7 +37,7 @@ const Hero = () => {
       <div className="bg-neutral py-8">
         <div className="max-w-screen-2xl mx-auto md:px-4 lg:px-32 px-4 text-accent font-semibold">
           {/* Development Tools */}
-          <div className="flex flex-wrap justify-center gap-6 text-lg mb-3 border-gray-600">
+          <div className="flex flex-wrap justify-center  md:gap-6 gap-2 lg:text-lg md:text-base text-xs mb-3 border-gray-600">
             <div>HTML</div>
             <div>CSS</div>
             <div>TAILWIND</div>
@@ -50,7 +50,7 @@ const Hero = () => {
           </div>
 
           {/* Graphics Tools */}
-          <div className="flex flex-wrap justify-center gap-6 text-lg">
+          <div className="flex flex-wrap justify-center md:gap-6 gap-2 lg:text-lg md:text-base text-xs">
             <div>FIGMA</div>
             <div>XD</div>
             <div>PHOTOSHOP</div>

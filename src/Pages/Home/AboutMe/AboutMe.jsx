@@ -14,7 +14,7 @@ const AboutMe = () => {
         {/* Who I Am */}
         <div>
           <h5 className="text-xl font-bold mb-2">Who I Am</h5>
-          <p>
+          <p className="text-sm lg:text-base">
             Hi there! 👋 I’m{" "}
             <span className="font-semibold">Raufur Islam Nayem</span>, a
             passionate{" "}
@@ -40,7 +40,7 @@ const AboutMe = () => {
         {/* My Programming Journey */}
         <div>
           <h5 className="text-xl font-bold mb-2">My Programming Journey</h5>
-          <p>
+          <p className="text-sm lg:text-base">
             My journey into tech started with a curiosity about how websites and
             applications work. I began exploring{" "}
             <span className="font-semibold">HTML, CSS, and JavaScript</span>,
@@ -60,7 +60,7 @@ const AboutMe = () => {
         {/* The Work I Enjoy */}
         <div>
           <h5 className="text-xl font-bold mb-2">The Work I Enjoy</h5>
-          <p>
+          <p className="text-sm lg:text-base">
             I thrive on solving{" "}
             <span className="font-semibold">complex problems</span> and bringing{" "}
             <span className="font-semibold">creative ideas</span> to life
@@ -78,7 +78,7 @@ const AboutMe = () => {
         {/* Beyond Coding */}
         <div>
           <h5 className="text-xl font-bold mb-2">Beyond Coding</h5>
-          <p>
+          <p className="text-sm lg:text-base">
             While tech is a huge part of my life, I also have a creative side!
             🎨 I love <span className="font-semibold">graphic design</span>,
             where I experiment with branding, UI/UX mockups, and digital
