@@ -4,27 +4,27 @@ const Navbar = () => {
   const link = (
     <>
       <li>
-        <a>Social</a>
+        <a href="#social">Social</a>
       </li>
       <li>
-        <a>About Me</a>
+        <a href="#aboutme">About Me</a>
       </li>
       <li>
-        <a>Skills</a>
+        <a href="#skills">Skills</a>
+      </li>
+      {/* <li>
+        <a href="#education">Education</a>
       </li>
       <li>
-        <a>Education</a>
-      </li>
+        <a href="#experience">Experience</a>
+      </li> */}
       <li>
-        <a>Experience</a>
-      </li>
-      <li>
-        <a>Projects</a>
+        <a href="#projects">Projects</a>
       </li>
     </>
   );
   return (
-    <div className="shadow-md">
+    <div className="shadow-md fixed top-0 w-full z-50 bg-[#0D1117]">
       <div className="navbar max-w-screen-2xl mx-auto md:px-4 lg:px-20 px-4">
         <div className="navbar-start">
           <div className="dropdown">
@@ -61,7 +61,9 @@ const Navbar = () => {
           <ul className="menu menu-horizontal px-1">{link}</ul>
         </div>
         <div className="navbar-end">
-          <a className="text-primary font-bold">Contact</a>
+          <a href="#contact" className="text-primary font-bold">
+            Contact
+          </a>
         </div>
       </div>
     </div>

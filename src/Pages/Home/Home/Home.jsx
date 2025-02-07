@@ -9,20 +9,22 @@ import Contact from "../Contact/Contact";
 const Home = () => {
   return (
     <div>
-      <Hero></Hero>
       <div className="mt-16">
+        <Hero></Hero>
+      </div>
+      <div id="social" className="mt-16">
         <SocialLink></SocialLink>
       </div>
-      <div className="mt-16">
+      <div id="aboutme" className="mt-16">
         <AboutMe></AboutMe>
       </div>
-      <div className="mt-16">
+      <div id="skills" className="mt-16">
         <Skill></Skill>
       </div>
-      <div className="mt-16">
+      <div id="projects" className="mt-16">
         <Projects></Projects>
       </div>
-      <div className="mt-16">
+      <div id="contact" className="mt-16">
         <Contact></Contact>
       </div>
     </div>
