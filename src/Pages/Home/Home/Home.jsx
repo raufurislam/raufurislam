@@ -4,6 +4,7 @@ import SocialLink from "../SocialLink/SocialLink";
 import AboutMe from "../AboutMe/AboutMe";
 import Skill from "../Skill/Skill";
 import Projects from "../Projects/Projects";
+import Contact from "../Contact/Contact";
 
 const Home = () => {
   return (
@@ -20,6 +21,9 @@ const Home = () => {
       </div>
       <div className="mt-16">
         <Projects></Projects>
+      </div>
+      <div className="mt-16">
+        <Contact></Contact>
       </div>
     </div>
   );
