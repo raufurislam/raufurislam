@@ -80,10 +80,10 @@ const Projects = () => {
   return (
     <div className="max-w-screen-2xl mx-auto md:px-4 lg:px-20 px-4">
       <div className="text-center mb-10">
-        <h4 className="text-primary font-semibold text-xl mb-2 uppercase">
+        <h4 className="text-primary font-semibold md:text-xl text-lg mb-2 uppercase">
           Projects
         </h4>
-        <h4 className="text-white text-4xl font-bold">
+        <h4 className="text-white lg:text-4xl md:text-3xl text-2xl font-bold">
           Where Design Meets Development
         </h4>
       </div>

@@ -8,8 +8,12 @@ const SocialLink = () => {
     <div>
       {/* Heading */}
       <div className="text-center">
-        <h4 className="text-primary font-semibold text-xl mb-2">Social</h4>
-        <h4 className="text-white text-4xl font-bold">Let's Stay Connected</h4>
+        <h4 className="text-primary font-semibold md:text-xl text-lg mb-2 uppercase">
+          Social
+        </h4>
+        <h4 className="text-white lg:text-4xl md:text-3xl text-2xl font-bold">
+          Let's Stay Connected
+        </h4>
       </div>
 
       {/* Social Media Links */}

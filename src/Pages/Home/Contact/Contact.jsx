@@ -8,10 +8,12 @@ const Contact = () => {
     <div className="max-w-screen-2xl mx-auto md:px-4 lg:px-20 px-4">
       {/* Heading */}
       <div className="text-center mb-10">
-        <h4 className="text-primary font-semibold text-xl mb-2 uppercase">
+        <h4 className="text-primary font-semibold md:text-xl text-lg mb-2 uppercase">
           Contact
         </h4>
-        <h4 className="text-white text-4xl font-bold">Reach Out to Me</h4>
+        <h4 className="text-white lg:text-4xl md:text-3xl text-2xl font-bold">
+          Reach Out to Me
+        </h4>
 
         {/* <div className="flex flex-col md:flex-row justify-center items-center mt-10 gap-5">
           <div className="flex flex-col items-center justify-center border-r-2 border-neutral-500 pr-5">
@@ -63,7 +65,7 @@ const Contact = () => {
             >
               <FaPhoneAlt size={32} />
             </a>
-            <p className="mt-2">+8801648068834</p>
+            <p className="mt-2 text-secondary">+8801648068834</p>
           </div>
 
           <div className="flex flex-col items-center justify-center border-b-2 md:border-b-0 md:border-r-2 border-neutral-500 pb-5 md:pb-0 md:pr-5">
@@ -76,7 +78,7 @@ const Contact = () => {
             >
               <BiLogoGmail size={32} />
             </a>
-            <p className="mt-2">raufurislam@gmail.com</p>
+            <p className="mt-2 text-secondary">raufurislam@gmail.com</p>
           </div>
 
           <div className="flex flex-col items-center justify-center pb-5 md:pb-0">
@@ -89,7 +91,7 @@ const Contact = () => {
             >
               <IoLogoWhatsapp size={32} />
             </a>
-            <p className="mt-2">raufurislam@gmail.com</p>
+            <p className="mt-2 text-secondary">+8801648068834</p>
           </div>
         </div>
       </div>

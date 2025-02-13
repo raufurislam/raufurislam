@@ -1,24 +1,25 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const Navbar = () => {
   const link = (
     <>
-      <li>
+      <li className="text-secondary hover:text-white">
         <a href="#social">Social</a>
       </li>
-      <li>
+      <li className="text-secondary hover:text-white">
         <a href="#aboutme">About Me</a>
       </li>
-      <li>
+      <li className="text-secondary hover:text-white">
         <a href="#skills">Skills</a>
       </li>
-      {/* <li>
+      <li className="text-secondary hover:text-white">
         <a href="#education">Education</a>
       </li>
-      <li>
+      {/* <li className="text-secondary hover:text-white">
         <a href="#experience">Experience</a>
       </li> */}
-      <li>
+      <li className="text-secondary hover:text-white">
         <a href="#projects">Projects</a>
       </li>
     </>
@@ -35,7 +36,7 @@ const Navbar = () => {
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                className="h-5 w-5"
+                className="h-5 w-5 text-secondary"
                 fill="none"
                 viewBox="0 0 24 24"
                 stroke="currentColor"
@@ -50,12 +51,23 @@ const Navbar = () => {
             </div>
             <ul
               tabIndex={0}
-              className="menu menu-sm px-0 dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow"
+              className="menu menu-sm px-0 dropdown-content bg-neutral rounded-box z-[1] mt-3 w-52 p-2 shadow"
             >
               {link}
             </ul>
           </div>
-          <a className="btn btn-ghost text-xl px-4 lg:px-0">Raufur Islam</a>
+          <Link
+            to="/"
+            className="btn btn-ghost text-xl text-white px-4 lg:px-0"
+          >
+            {" "}
+            <img
+              src="https://i.ibb.co.com/qYC6YkKw/logo-12.png"
+              className="w-8"
+              alt=""
+            />
+            Raufur Islam
+          </Link>
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">{link}</ul>

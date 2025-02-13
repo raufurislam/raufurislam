@@ -2,9 +2,11 @@ const AboutMe = () => {
   return (
     <div className="max-w-screen-2xl mx-auto md:px-4 lg:px-20 px-4">
       {/* Heading */}
-      <div className="text-center mb-10">
-        <h4 className="text-primary font-semibold text-xl mb-2">About Me</h4>
-        <h4 className="text-white text-4xl font-bold">
+      <div className="text-center md:mb-8 mb-4">
+        <h4 className="text-primary font-semibold md:text-xl text-lg mb-2 uppercase">
+          About Me
+        </h4>
+        <h4 className="text-white lg:text-4xl md:text-3xl text-2xl font-bold">
           My Journey in Tech & Design
         </h4>
       </div>
