@@ -13,7 +13,7 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">
-I am a <b>Full Stack Developer</b> with expertise in <b>React.js, Node.js, and UI/UX design</b>. I enjoy building <b>scalable, efficient applications</b> and continuously learning emerging technologies.
+I am a <b>Junior Full Stack Developer</b> with expertise in <b>React.js, Node.js, and UI/UX design</b>. I enjoy building <b>scalable, efficient applications</b> and continuously learning emerging technologies.
 Beyond coding, I have a strong background in <b>graphics design</b> and UI/UX, utilizing tools like <b>Photoshop, Illustrator, and Figma</b> to enhance the user experience.
 </p>
 
