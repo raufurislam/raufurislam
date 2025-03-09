@@ -12,10 +12,13 @@
 
 <h2 align="left">About Me</h2>
 
-<p align="left">
+<p align="left">I am a <strong>Junior Full Stack Developer</strong> with expertise in <strong>React.js, Node.js, Express, and MongoDB</strong>, along with a strong focus on <strong>UI/UX design</strong>. I enjoy building <strong>scalable, high-performance applications</strong> and continuously expanding my skills in modern web technologies. Additionally, my background in <strong>graphic design and UI/UX design</strong> allows me to create visually appealing and user-friendly experiences. <br>
+</p>
+
+<!-- <p align="left">
 I am a <b>Full Stack Developer</b> with expertise in <b>React.js, Node.js, and UI/UX design</b>. I enjoy building <b>scalable, efficient applications</b> and continuously learning emerging technologies.
 Beyond coding, I have a strong background in <b>graphics design</b> and UI/UX, utilizing tools like <b>Photoshop, Illustrator, and Figma</b> to enhance the user experience.
-</p>
+</p> -->
 
 ###
 
