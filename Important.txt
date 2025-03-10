@@ -5,3 +5,53 @@ $ git add .
 $ git commit -m"Update Readme with pull"
 $ git push -u origin main (u for always push from main branch)
 Life is Easy if you explore
+
+
+........................................
+You're in a merge conflict state (main|MERGING). The conflict is in README.md, so you need to resolve it before pushing.
+
+Fix It Step by Step
+1. Check the Conflict
+Run:
+
+bash
+Copy
+Edit
+git status
+You'll see something like:
+
+plaintext
+Copy
+Edit
+both modified:   README.md
+2. Open README.md and Resolve the Conflict
+Open README.md in VS Code or any editor.
+Find the conflict markers:
+plaintext
+Copy
+Edit
+<<<<<<< HEAD
+(your local changes)
+=======
+(remote changes from GitHub)
+>>>>>>> [commit-hash]
+Choose which version to keep:
+Keep your changes: Remove the remote part.
+Keep remote changes: Remove your part.
+Merge both: Manually combine them.
+Save the file.
+3. Mark Conflict as Resolved
+Run:
+
+bash
+Copy
+Edit
+git add README.md
+git commit -m "Resolved merge conflict in README.md"
+4. Push the Changes
+Now, push your branch to GitHub:
+
+bash
+Copy
+Edit
+git push origin main
