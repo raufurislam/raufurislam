@@ -7,7 +7,7 @@ const Hero = () => {
       <br />
       <div className="grid md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
         <div className="bg-red-500">a</div>
-        <div className="bg-yellow-500">b</div>
+        <div className="bg-yellow-500">dddfb</div>
         <div className="bg-blue-500">c</div>
         <div className="bg-green-500">d</div>
       </div>
