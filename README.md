@@ -119,10 +119,10 @@ Beyond coding, I have a strong background in <b>graphics design</b> and UI/UX, u
 
 <div align="center">
   
-  <img src="https://nirzak-streak-stats.vercel.app/?user=raufurislam&theme=dracula&hide_border=true" width="420px" alt="streak graph"  /><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raufurislam&radius=16&theme=dracula&area=true&order=5&hide_border=true&bg_color=282A36" width="420px" alt="activity-graph graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=raufurislam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" width="420px" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raufurislam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" width="420px" alt="languages graph" /> 
+  <img src="https://nirzak-streak-stats.vercel.app/?user=raufurislam&theme=dracula&hide_border=true" width="520px" alt="streak graph"  /><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raufurislam&radius=16&theme=dracula&area=true&order=5&hide_border=true&bg_color=282A36" width="520px" alt="activity-graph graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=raufurislam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" width="520px" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raufurislam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" width="520px" alt="languages graph" /> 
    
 </div>
 <div align="center">
