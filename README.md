@@ -126,7 +126,7 @@ Beyond coding, I have a strong background in <b>graphics design</b> and UI/UX, u
    
 </div>
 <div align="center">
-  <!-- <img src="https://profile-counter.glitch.me/raufurislam/count.svg?"  /> -->
+  <img src="https://profile-counter.glitch.me/raufurislam/count.svg?"  />
 </div>
 
 ###
