@@ -33,18 +33,18 @@ import Loading from "../Pages/Loading/Loading";
 const Main = () => {
   const [isLoading, setIsLoading] = useState(true);
 
-  useEffect(() => {
-    // Simulate loading time
-    const timer = setTimeout(() => {
-      setIsLoading(false);
-    }, 2000); // Adjust timing as needed
+  // useEffect(() => {
+  //   // Simulate loading time
+  //   const timer = setTimeout(() => {
+  //     setIsLoading(false);
+  //   }, 2000); // Adjust timing as needed
 
-    return () => clearTimeout(timer);
-  }, []);
+  //   return () => clearTimeout(timer);
+  // }, []);
 
-  if (isLoading) {
-    return <Loading />; // Show loading screen without navbar/footer
-  }
+  // if (isLoading) {
+  //   return <Loading />; // Show loading screen without navbar/footer
+  // }
 
   return (
     <div className="flex flex-col min-h-screen">
