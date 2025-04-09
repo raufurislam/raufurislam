@@ -68,6 +68,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
   <img width="12" />
+    <img src="https://img.icons8.com/?size=48&id=rHpveptSuwDz&format=png" height="40" alt="JWT logo" />
+  <img width="12" />
 
 </div>
 
