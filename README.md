@@ -6,7 +6,7 @@
 
 <h1 align="center">Hello World... I am Raufur Islam Nayem 😊</h1>
 <h3 align="center">Junior Full Stack Developer | UI/UX & Graphics Enthusiast</h3>
-<p align="center">🚀 Passionate about crafting dynamic web applications and engaging user experiences</p>
+<p align="center">Passionate about crafting dynamic web applications and engaging user experiences</p>
 
 ###
 
@@ -17,7 +17,27 @@
 
 ###
 
-<h2 align="left">💻 Code & Canvas</h2>
+<h2 align="left">Connect With Me </h2>
+
+<div align="left">
+  <a href="https://web.facebook.com/raufurislam.nayem" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/raufur-islam-698030319/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+<!--   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" -->
+  <a href="https://discordapp.com/users/raufur6299" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://wa.me/+8801648068834" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">Code & Canvas</h2>
 <!-- <h2 align="left">💻 I Code With</h2> -->
 
 ### **Frontend Development**
@@ -51,7 +71,9 @@
 
 </div>
 
-### **⚙️ DevOps & Tools**
+### **DevOps & Tools**
+
+<!-- ### **⚙️ DevOps & Tools** -->
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
@@ -63,7 +85,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman logo" />
 </div>
 
-### **🎨 UI/UX & Graphics Design**
+### **UI/UX & Graphics Design**
+
+<!-- ### **🎨 UI/UX & Graphics Design** -->
 
 <div align="left">
   <img src="https://i.ibb.co.com/hJLGFkM9/photoshop.png" height="40" alt="Photoshop logo" />
@@ -81,27 +105,8 @@
 
 ###
 
-<h2 align="left">🔗 Social Links</h2>
-
-<div align="left">
-  <a href="https://web.facebook.com/raufurislam.nayem" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/raufur-islam-698030319/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-<!--   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" -->
-  <a href="https://discordapp.com/users/raufur6299" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://wa.me/+8801648068834" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">📈 Current Stats</h2>
+<h2 align="left">Current Stats</h2>
+<!-- <h2 align="left">📈 Current Stats</h2> -->
 
 <div align="center">
   
@@ -114,7 +119,8 @@
 <div align="center">
   <!-- <img src="https://profile-counter.glitch.me/raufurislam/count.svg?"  /> -->
 </div>
-<h2 align="left">🚀 Current Activities</h2>
+<h2 align="left">Current Activities</h2>
+<!-- <h2 align="left">🚀 Current Activities</h2> -->
 
 ✅ Actively enrolled in **Programming Hero Level 2** to advance full-stack development skills  
 ✅ Deep-diving into modern technologies to build scalable, production-ready applications  
@@ -122,9 +128,7 @@
 ✅ Improving UI/UX design skills using **Figma**, **Adobe XD**, and real-world projects  
 ✅ Preparing to work with cloud infrastructure and containerization tools
 
----
-
-🛠️ **Upcoming Technologies in My Journey** (Next 8 months from April 2025):
+🛠️ **Upcoming Technologies in My Journey** (from April 2025):
 
 - TypeScript
 - Redux
