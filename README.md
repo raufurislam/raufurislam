@@ -15,22 +15,6 @@
 <p align="left">I am a <strong>Junior Full Stack Developer</strong> with expertise in <strong>React.js, Node.js, Express, and MongoDB</strong>, along with a strong focus on <strong>UI/UX design</strong>. I enjoy building <strong>scalable, high-performance applications</strong> and continuously expanding my skills in modern web technologies. Additionally, my background in <strong>graphic design and UI/UX design</strong> allows me to create visually appealing and user-friendly experiences. <br>
 </p>
 
-<!-- <p align="left">
-I am a <b>Full Stack Developer</b> with expertise in <b>React.js, Node.js, and UI/UX design</b>. I enjoy building <b>scalable, efficient applications</b> and continuously learning emerging technologies.
-Beyond coding, I have a strong background in <b>graphics design</b> and UI/UX, utilizing tools like <b>Photoshop, Illustrator, and Figma</b> to enhance the user experience.
-</p> -->
-
-###
-
-<h2 align="left">🚀 Current Activities</h2>
-
-<ul align="left">
-  <li>✅ Exploring <b>Next.js</b> for optimized performance and SEO</li>
-  <li>✅ Developing a <b>tourism website</b> with an enhanced user experience</li>
-  <li>✅ Improving <b>UI/UX design</b> using <b>Figma & Adobe XD</b></li>
-  <li>✅ Enhancing <b>backend performance & cloud integration</b></li>
-</ul>
-
 ###
 
 <h2 align="left">💻 I Code With</h2>
@@ -48,6 +32,7 @@ Beyond coding, I have a strong background in <b>graphics design</b> and UI/UX, u
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase logo" />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  /> -->
 </div>
 
@@ -62,7 +47,7 @@ Beyond coding, I have a strong background in <b>graphics design</b> and UI/UX, u
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase logo" />
+
 </div>
 
 ### **🎨 UI/UX & Graphics Design**
@@ -128,5 +113,29 @@ Beyond coding, I have a strong background in <b>graphics design</b> and UI/UX, u
 <div align="center">
   <!-- <img src="https://profile-counter.glitch.me/raufurislam/count.svg?"  /> -->
 </div>
+<h2 align="left">🚀 Current Activities</h2>
+
+✅ Actively enrolled in **Programming Hero Level 2** to advance full-stack development skills  
+✅ Deep-diving into modern technologies to build scalable, production-ready applications  
+✅ Exploring advanced topics in backend development, testing, and deployment  
+✅ Improving UI/UX design skills using **Figma**, **Adobe XD**, and real-world projects  
+✅ Preparing to work with cloud infrastructure and containerization tools
+
+---
+
+🛠️ **Upcoming Technologies in My Journey** (Next 8 months from April 2025):
+
+- TypeScript
+- Redux
+- Next.js
+- DBMS, SQL, PostgreSQL
+- Prisma
+- Mongoose
+- Docker
+- AWS
+- Vitest & Jest (for testing)
+- GraphQL
+
+###
 
 ###
