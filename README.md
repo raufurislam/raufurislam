@@ -17,7 +17,8 @@
 
 ###
 
-<h2 align="left">💻 I Code With</h2>
+<h2 align="left">💻 Code & Canvas</h2>
+<!-- <h2 align="left">💻 I Code With</h2> -->
 
 ### **Frontend Development**
 
@@ -50,6 +51,18 @@
 
 </div>
 
+### **⚙️ DevOps & Tools**
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" height="40" alt="GitHub logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman logo" />
+</div>
+
 ### **🎨 UI/UX & Graphics Design**
 
 <div align="left">
@@ -64,18 +77,6 @@
   <img src="https://i.ibb.co.com/9m8DGjWY/figma.png" height="40" alt="Figma logo" />
   <img width="12" />
   <img src="https://i.ibb.co.com/ycZVfcnP/xd.png" height="40" alt="Adobe XD logo" />
-</div>
-
-### **⚙️ DevOps & Tools**
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" height="40" alt="GitHub logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman logo" />
 </div>
 
 ###
