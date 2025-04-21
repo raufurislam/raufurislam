@@ -3,30 +3,6 @@ import { IoMdOpen } from "react-icons/io";
 
 const projects = [
   {
-    name: "Crowdcube",
-    date: "December 2024",
-    img: "https://i.ibb.co.com/cSJQmqLy/crowdcube.jpg",
-    technologies_use: [
-      "ReactJs",
-      "Tailwind CSS",
-      "Express.js",
-      "MongoDB",
-      "Firebase",
-      "Vercel",
-      "Node.js",
-      "Illustrator",
-      "Figma",
-    ],
-    description:
-      "Crowdcube is a modern crowdfunding platform that empowers individuals and organizations to bring their ideas to life. It provides seamless and transparent fundraising and donation features with user authentication and a responsive design.",
-    live_link: "https://crowdcube-a10.web.app/",
-    git_repository: "https://github.com/raufurislam/crowdcube",
-    challenges_faces:
-      "One of the major challenges was implementing a secure and efficient payment gateway for donations. Ensuring real-time updates and handling authentication seamlessly with Firebase also required careful planning and debugging.",
-    improvments_couldbe:
-      "Future improvements could include integrating additional payment options like cryptocurrency, enhancing accessibility features, and implementing AI-driven campaign recommendations for better user engagement.",
-  },
-  {
     name: "Soulmate",
     date: "January 2025",
     img: "https://i.ibb.co.com/pBJXRSrD/soulmate.jpg",
@@ -50,6 +26,31 @@ const projects = [
     improvments_couldbe:
       "Future improvements could include AI-driven matchmaking, voice and video chat integration, an enhanced recommendation system, and more advanced analytics for user engagement tracking.",
   },
+  {
+    name: "Crowdcube",
+    date: "December 2024",
+    img: "https://i.ibb.co.com/cSJQmqLy/crowdcube.jpg",
+    technologies_use: [
+      "ReactJs",
+      "Tailwind CSS",
+      "Express.js",
+      "MongoDB",
+      "Firebase",
+      "Vercel",
+      "Node.js",
+      "Illustrator",
+      "Figma",
+    ],
+    description:
+      "Crowdcube is a modern crowdfunding platform that empowers individuals and organizations to bring their ideas to life. It provides seamless and transparent fundraising and donation features with user authentication and a responsive design.",
+    live_link: "https://crowdcube-a10.web.app/",
+    git_repository: "https://github.com/raufurislam/crowdcube",
+    challenges_faces:
+      "One of the major challenges was implementing a secure and efficient payment gateway for donations. Ensuring real-time updates and handling authentication seamlessly with Firebase also required careful planning and debugging.",
+    improvments_couldbe:
+      "Future improvements could include integrating additional payment options like cryptocurrency, enhancing accessibility features, and implementing AI-driven campaign recommendations for better user engagement.",
+  },
+
   {
     name: "Project Warmth",
     date: "November 2024",
