@@ -38,6 +38,7 @@
 // export default Home;
 
 import React, { lazy, Suspense } from "react";
+import Cirtificate from "../Cirtificate/Cirtificate";
 
 const Hero = lazy(() => import("../Hero/Hero"));
 const SocialLink = lazy(() => import("../SocialLink/SocialLink"));
@@ -70,14 +71,22 @@ const Home = () => {
           <Skill />
         </Suspense>
       </div>
+
+      <div id="projects" className="mt-16">
+        <Suspense fallback={null}>
+          <Projects />
+        </Suspense>
+      </div>
+
       <div id="education" className="mt-16">
         <Suspense fallback={null}>
           <Education />
         </Suspense>
       </div>
+
       <div id="projects" className="mt-16">
         <Suspense fallback={null}>
-          <Projects />
+          <Cirtificate />
         </Suspense>
       </div>
       <div id="contact" className="mt-16">
