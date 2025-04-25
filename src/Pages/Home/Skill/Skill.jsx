@@ -326,7 +326,7 @@ const Skill = () => {
                     }
                   >
                     <Icon
-                      className="text-3xl md:text-4xl lg:text-5xl xl:text-5xl transition-all duration-300 ease-in-out"
+                      className="text-3xl md:text-3xl lg:text-4xl xl:text-5xl transition-all duration-300 ease-in-out"
                       style={{ color: isHovered ? color : "#6B7280" }}
                     />
                   </div>

@@ -84,11 +84,12 @@ const Home = () => {
         </Suspense>
       </div>
 
-      <div id="projects" className="mt-16">
+      {/* <div id="projects" className="mt-16">
         <Suspense fallback={null}>
           <Cirtificate />
         </Suspense>
-      </div>
+      </div> */}
+
       <div id="contact" className="mt-16">
         <Suspense fallback={null}>
           <Contact />
