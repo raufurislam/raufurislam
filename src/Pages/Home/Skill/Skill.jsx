@@ -293,8 +293,9 @@ const Skill = () => {
   };
 
   return (
-    <div className="min-h-screen bg-black text-white py-12 px-6 md:px-12">
-      <div className="max-w-screen-2xl mx-auto">
+    // <div className="min-h-screen bg-black text-white py-12 px-6 md:px-12">
+    <div className="">
+      <div className="max-w-screen-2xl mx-auto md:px-4 lg:px-20 px-4">
         {/* Heading */}
         <div className="text-center mb-10">
           <h4 className="text-primary font-semibold md:text-xl text-lg mb-2 uppercase">
