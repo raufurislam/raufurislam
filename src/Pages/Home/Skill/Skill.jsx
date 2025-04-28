@@ -34,7 +34,6 @@ const skills = [
       { icon: IoLogoNodejs, color: "#8CC84B", name: "Node.js" },
       { icon: SiExpress, color: "#808080", name: "Express.js" },
       { icon: SiMongodb, color: "#4DB33D", name: "MongoDB" },
-      { icon: SiMongodb, color: "#4DB33D", name: "MongoDB" },
     ],
   },
   {
