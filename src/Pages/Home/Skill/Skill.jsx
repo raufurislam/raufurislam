@@ -24,7 +24,8 @@ const skills = [
       { icon: RiTailwindCssFill, color: "#06B6D4", name: "Tailwind CSS" },
       { icon: FaJs, color: "#F7DF1E", name: "JavaScript" },
       { icon: FaReact, color: "#61DAFB", name: "React" },
-      { icon: RiNextjsFill, color: "#FFFFFF", name: "Next.js" },
+      { icon: IoLogoFirebase, color: "#FFCA28", name: "Firebase" },
+      // { icon: RiNextjsFill, color: "#FFFFFF", name: "Next.js" },
     ],
   },
   {
@@ -33,7 +34,7 @@ const skills = [
       { icon: IoLogoNodejs, color: "#8CC84B", name: "Node.js" },
       { icon: SiExpress, color: "#808080", name: "Express.js" },
       { icon: SiMongodb, color: "#4DB33D", name: "MongoDB" },
-      { icon: IoLogoFirebase, color: "#FFCA28", name: "Firebase" },
+      { icon: SiMongodb, color: "#4DB33D", name: "MongoDB" },
     ],
   },
   {
