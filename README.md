@@ -120,6 +120,7 @@
 </div>
 <div align="center">
   <img src="https://profile-counter.glitch.me/raufurislam/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=raufurislam&label=Profile%20views&color=0e75b6&style=flat"/>
 </div>
 <h2 align="left">Current Activities</h2>
 <!-- <h2 align="left">🚀 Current Activities</h2> -->
