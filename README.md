@@ -116,11 +116,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raufurislam&radius=16&theme=dracula&area=true&order=5&hide_border=true&bg_color=282A36" width="520px" alt="activity-graph graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=raufurislam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" width="520px" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raufurislam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" width="520px" alt="languages graph" /> 
-   
+    <!-- <img src="https://komarev.com/ghpvc/?username=raufurislam&label=Profile%20views&color=78D8F8&style=flat" width="140px" /> -->
+
 </div>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/raufurislam/count.svg?"  />
-  <img src="https://komarev.com/ghpvc/?username=raufurislam&label=Profile%20views&color=0e75b6&style=flat"/>
+  <!-- <img src="https://profile-counter.glitch.me/raufurislam/count.svg?"  /> -->
+  <!-- <br/> -->
+  <!-- <img src="https://komarev.com/ghpvc/?username=raufurislam&label=Profile%20views&color=78D8F8&style=for-the-badge" width="140px" /> -->
+  <img src="https://komarev.com/ghpvc/?username=raufurislam&label=Profile%20views&color=78D8F8&style=flat" width="140px" />
 </div>
 <h2 align="left">Current Activities</h2>
 <!-- <h2 align="left">🚀 Current Activities</h2> -->
