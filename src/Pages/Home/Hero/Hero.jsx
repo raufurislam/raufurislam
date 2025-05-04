@@ -31,10 +31,10 @@ const Hero = () => {
           {/* image with lazy loading */}
           <div className="flex justify-center">
             <img
-              src="https://i.ibb.co.com/3mP81JsF/github-banner-10-09.png"
+              src="https://i.ibb.co.com/sJD22FzC/hero-section-web-optimize.png"
               alt="Raufur Islam"
               className="w-[500px] xl:w-[700px]"
-              loading="lazy" // lazy-load the image
+              loading="lazy"
             />
           </div>
         </div>
