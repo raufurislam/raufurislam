@@ -1,11 +1,15 @@
 import React, { useState } from "react";
 import { IoMdOpen } from "react-icons/io";
 
+import soulmateImg from "/soulmate.jpg";
+import crowdcubeImg from "/crowdcube.jpg";
+import projectWarmthImg from "/project-warmth.jpg";
+
 const projects = [
   {
     name: "Soulmate",
     date: "January 2025",
-    img: "https://i.ibb.co.com/pBJXRSrD/soulmate.jpg",
+    img: soulmateImg,
     technologies_use: [
       "ReactJs",
       "Tailwind CSS",
@@ -29,7 +33,7 @@ const projects = [
   {
     name: "Crowdcube",
     date: "December 2024",
-    img: "https://i.ibb.co.com/cSJQmqLy/crowdcube.jpg",
+    img: crowdcubeImg,
     technologies_use: [
       "ReactJs",
       "Tailwind CSS",
@@ -54,7 +58,7 @@ const projects = [
   {
     name: "Project Warmth",
     date: "November 2024",
-    img: "https://i.ibb.co.com/PzsgZHdR/project-warmth.jpg",
+    img: projectWarmthImg,
     technologies_use: [
       "ReactJs",
       "Tailwind CSS",

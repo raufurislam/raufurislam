@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "/hero-section-web-optimize.png";
 
 const Hero = () => {
   return (
@@ -31,7 +32,8 @@ const Hero = () => {
           {/* image with lazy loading */}
           <div className="flex justify-center">
             <img
-              src="https://i.ibb.co.com/sJD22FzC/hero-section-web-optimize.png"
+              // src="https://i.ibb.co.com/sJD22FzC/hero-section-web-optimize.png"
+              src={Image}
               alt="Raufur Islam"
               className="w-[500px] xl:w-[700px]"
               loading="lazy"
