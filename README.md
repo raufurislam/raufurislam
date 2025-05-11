@@ -119,6 +119,7 @@
     <!-- <img src="https://komarev.com/ghpvc/?username=raufurislam&label=Profile%20views&color=78D8F8&style=flat" width="140px" /> -->
 
 </div>
+
 <div align="center">
   <!-- <img src="https://profile-counter.glitch.me/raufurislam/count.svg?"  /> -->
   <!-- <br/> -->
@@ -139,7 +140,7 @@
 - TypeScript
 - Redux
 - Next.js
-- DBMS, SQL, PostgreSQL
+- DBMS(SQL)- PostgreSQL
 - Prisma
 - Mongoose
 - Docker

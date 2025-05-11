@@ -22,11 +22,11 @@ const Home = () => {
       <div id="skills" className="mt-16">
         <Skill></Skill>
       </div>
-      <div id="education" className="mt-16">
-        <Education></Education>
-      </div>
       <div id="projects" className="mt-16">
         <Projects></Projects>
+      </div>
+      <div id="education" className="mt-16">
+        <Education></Education>
       </div>
       <div id="contact" className="mt-16">
         <Contact></Contact>
