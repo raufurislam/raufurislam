@@ -43,17 +43,18 @@
 ### **Frontend Development**
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="42" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="42" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" height="42" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="42" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="42" alt="react logo"  />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /> -->
   <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase logo" />
+    <img src="https://skillicons.dev/icons?i=firebase" height="42" alt="Firebase logo" />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  /> -->
 </div>
 
@@ -62,13 +63,13 @@
 ### **Backend Development**
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="Node.js logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js logo" />
+  <img src="https://skillicons.dev/icons?i=express" height="42" alt="Express.js logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="42" alt="MongoDB logo" />
   <img width="12" />
-    <img src="https://img.icons8.com/?size=48&id=rHpveptSuwDz&format=png" height="40" alt="JWT logo" />
+    <img style="background:#242938; border-radius:8px; display:inline-block;" src="https://img.icons8.com/?size=96&id=rHpveptSuwDz&format=png" height="42" alt="JWT logo" />
   <img width="12" />
 
 </div>
@@ -78,13 +79,13 @@
 <!-- ### **⚙️ DevOps & Tools** -->
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
+  <img src="https://skillicons.dev/icons?i=git" height="42" alt="Git logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" height="40" alt="GitHub logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="42" alt="github logo" height="42" alt="GitHub logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="VS Code logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman logo" />
+  <img src="https://skillicons.dev/icons?i=postman" height="42" alt="Postman logo" />
 </div>
 
 ### **UI/UX & Graphics Design**
@@ -92,17 +93,17 @@
 <!-- ### **🎨 UI/UX & Graphics Design** -->
 
 <div align="left">
-  <img src="https://i.ibb.co.com/hJLGFkM9/photoshop.png" height="40" alt="Photoshop logo" />
+  <img src="https://skillicons.dev/icons?i=photoshop" height="42" alt="Photoshop logo" />
   <img width="12" />
-  <img src="https://i.ibb.co.com/ZzJpJtwP/illustrator.png" height="40" alt="Illustrator logo" />
+  <img src="https://skillicons.dev/icons?i=illustrator" height="42" alt="Illustrator logo" />
   <img width="12" />
-  <img src="https://i.ibb.co.com/6J8s08FB/indesign.png" height="40" alt="InDesign logo" />
-  <img width="10" />
-  <img src="https://i.ibb.co.com/tp5bwLrF/photoshop-lightroom.png" height="40" alt="Lightroom Classic logo" />
+  <img src="https://i.ibb.co.com/6J8s08FB/indesign.png" height="42" alt="InDesign logo" />
   <img width="12" />
-  <img src="https://i.ibb.co.com/9m8DGjWY/figma.png" height="40" alt="Figma logo" />
+  <img src="https://i.ibb.co.com/tp5bwLrF/photoshop-lightroom.png" height="42" alt="Lightroom Classic logo" />
   <img width="12" />
-  <img src="https://i.ibb.co.com/ycZVfcnP/xd.png" height="40" alt="Adobe XD logo" />
+  <img src="https://skillicons.dev/icons?i=figma" height="42" alt="Figma logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=xd" height="42" alt="Adobe XD logo" />
 </div>
 
 ###
