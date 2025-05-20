@@ -69,7 +69,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="42" alt="MongoDB logo" />
   <img width="12" />
+  <span>
     <img style="background:#242938; border-radius:8px; display:inline-block;" src="https://img.icons8.com/?size=96&id=rHpveptSuwDz&format=png" height="42" alt="JWT logo" />
+  </span>
   <img width="12" />
 
 </div>
