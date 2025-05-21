@@ -43,19 +43,31 @@
 ### **Frontend Development**
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="42" alt="html5 logo"  />
+
+  <!-- Typescript -->
+  <img src="https://skillicons.dev/icons?i=typescript" height="42" alt="html5 logo"  /> 
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="42" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwindcss" height="42" alt="tailwindcss logo"  />
-  <img width="12" />
+    <!-- Javascript -->
   <img src="https://skillicons.dev/icons?i=js" height="42" alt="javascript logo"  />
   <img width="12" />
+    <!-- React -->
   <img src="https://skillicons.dev/icons?i=react" height="42" alt="react logo"  />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /> -->
   <img width="12" />
+  <!-- html -->
+  <img src="https://skillicons.dev/icons?i=html" height="42" alt="html5 logo"  /> 
+  <img width="12" />
+  <!-- Css -->
+  <img src="https://skillicons.dev/icons?i=css" height="42" alt="css3 logo"  />
+  <img width="12" />
+  <!-- Tailwind -->
+  <img src="https://skillicons.dev/icons?i=tailwindcss" height="42" alt="tailwindcss logo"  />
+  <img width="12" />
+  <!-- Sass -->
+  <img src="https://skillicons.dev/icons?i=sass" height="42" alt="tailwindcss logo"  />
+  <img width="12" /> 
+  <!-- firebase -->
     <img src="https://skillicons.dev/icons?i=firebase" height="42" alt="Firebase logo" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  /> -->
+  <img width="12" />  
 </div>
 
 ###
@@ -71,7 +83,7 @@
   <img width="12" />
   <span>
     <img style="background:#242938; border-radius:8px; display:inline-block;" src="https://img.icons8.com/?size=96&id=rHpveptSuwDz&format=png" height="42" alt="JWT logo" />
-  </span>
+    </span>
   <img width="12" />
 
 </div>
