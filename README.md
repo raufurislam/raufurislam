@@ -38,21 +38,20 @@
 ###
 
 <h2 align="left">Code & Canvas</h2>
-<!-- <h2 align="left">💻 I Code With</h2> -->
-
-<h2 align="left">Code & Canvas</h2>
 
 ### **Frontend Development**
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
+<div align="left" style="display: flex; flex-wrap: wrap;">
   <img src="https://skillicons.dev/icons?i=typescript" height="42" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="42" />
-  <img src="https://skillicons.dev/icons?i=react" height="42" />
-  <img src="https://skillicons.dev/icons?i=html" height="42" />
-  <img src="https://skillicons.dev/icons?i=css" height="42" />
-  <img src="https://skillicons.dev/icons?i=tailwindcss" height="42" />
-  <img src="https://skillicons.dev/icons?i=sass" height="42" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="42" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="42" />  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="42" />  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="42" />  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" height="42" />  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="42" />  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="42" />  <img width="12" />
 </div>
 
 ### **Backend Development**
@@ -81,6 +80,75 @@
   <img src="https://i.ibb.co.com/6J8s08FB/indesign.png" height="42" alt="InDesign logo" />
   <img src="https://i.ibb.co.com/tp5bwLrF/photoshop-lightroom.png" height="42" alt="Lightroom Classic logo" />
   <img src="https://skillicons.dev/icons?i=figma" height="42" />
+  <img src="https://skillicons.dev/icons?i=xd" height="42" />
+</div>
+
+---
+
+---
+
+---
+
+---
+
+<h2 align="left">Code & Canvas</h2>
+
+### **Frontend Development**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=typescript" height="42" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="42" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="42" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="42" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="42" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" height="42" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="42" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="42" />
+</div>
+
+### **Backend Development**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="42" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="42" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="42" />
+  <img width="12" />
+  <img src="https://img.icons8.com/fluency/48/null/json-web-token.png" height="42" />
+</div>
+
+### **DevOps & Tools**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="42" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="42" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="42" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="42" />
+</div>
+
+### **UI/UX & Graphics Design**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=photoshop" height="42" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=illustrator" height="42" />
+  <img width="12" />
+  <img src="https://i.ibb.co.com/6J8s08FB/indesign.png" height="42" />
+  <img width="12" />
+  <img src="https://i.ibb.co.com/tp5bwLrF/photoshop-lightroom.png" height="42" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="42" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=xd" height="42" />
 </div>
 
