@@ -82,7 +82,6 @@
   <img src="https://skillicons.dev/icons?i=figma" height="42" alt="Figma" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=xd" height="42" alt="Adobe XD" />
 </p>
----
 
 ###
 
