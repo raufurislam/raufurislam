@@ -1,5 +1,6 @@
-<h1 align="center"></h1>
-
+<h1 align="center">Dream That Doesn’t Let Me Sleep</h1>
+<p align="center"><em>I’m not just learning technologies. I’m crafting the future I believe in. Every line of code, every pixel designed, is a step toward mastering my vision. This is the year I turn passion into progress and dreams into deliverables.</em></p>
+...
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript" height="42" alt="TypeScript" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=js" height="42" alt="JavaScript" />&nbsp;&nbsp;
@@ -17,6 +18,7 @@
   <img style="background:#242938; border-radius:8px;" src="https://img.icons8.com/color/96/mongoose.png" height="42" alt="Mongoose logo" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vitest" height="42" alt="React" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=jest" height="42" alt="React" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=graphql" height="42" alt="React" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html" height="42" alt="HTML" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" height="42" alt="CSS" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwindcss" height="42" alt="Tailwind CSS" />&nbsp;&nbsp;
@@ -36,22 +38,4 @@
   <img src="https://i.ibb.co/6J8s08FB/indesign.png" height="42" alt="InDesign logo" />&nbsp;&nbsp;
   <img src="https://i.ibb.co/tp5bwLrF/photoshop-lightroom.png" height="42" alt="Lightroom Classic logo" />&nbsp;&nbsp;
   
-</p>
-
-### **Backend Development**
-
-<p align="left">
- 
-</p>
-
-### **DevOps & Tools**
-
-<p align="left">
-  
-</p>
-
-### **UI/UX & Graphics Design**
-
-<p align="left">
- 
 </p>
