@@ -1,4 +1,4 @@
-<h1 align="center">Dream That Doesn’t Let Me Sleep</h1>
+<h1 align="center">Don't let past  to blackmail your <br>present to ruin a beautiful future</h1>
 <p align="center"><em>I’m not just learning technologies. I’m crafting the future I believe in. Every line of code, every pixel designed, is a step toward mastering my vision. This is the year I turn passion into progress and dreams into deliverables.</em></p>
 ...
 <p align="center">
