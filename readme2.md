@@ -140,3 +140,77 @@ Copy this to your GitHub profile’s README.md.
 
 Would you like me to export this as a downloadable file too?
 
+---
+---
+---
+<h1 align="center">Don't let past blackmail your <br>present to ruin a beautiful future</h1>
+
+<p align="center"><em>
+I’m not just learning technologies. I’m crafting the future I believe in.  
+Every line of code, every pixel designed, is a step toward mastering my vision.  
+This is the year I turn passion into progress and dreams into deliverables.
+</em></p>
+
+<p align="center">
+  <img src="https://i.ibb.co/wrg8L7h/your-logo.png" height="80" alt="Personal Logo" />
+</p>
+
+---
+
+## 🧠 Core Development Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express" height="30" />
+</p>
+
+---
+
+## 🗃️ Database & Authentication
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma,firebase" height="30" />
+  <img style="background:#242938; border-radius:6px;" src="https://img.icons8.com/?size=96&id=rHpveptSuwDz&format=png" height="30" alt="JWT" />
+</p>
+
+---
+
+## 🎨 UI/UX & Design Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator" height="30" />
+  <img src="https://i.ibb.co/6J8s08FB/indesign.png" height="30" alt="InDesign" />
+  <img src="https://i.ibb.co/tp5bwLrF/photoshop-lightroom.png" height="30" alt="Lightroom" />
+</p>
+
+---
+
+## 🧩 Animation & Styling
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=threejs,tailwind,sass" height="30" />
+  <img style="background:#242938; border-radius:6px;" src="https://gsap.com/community/uploads/monthly_2020_03/tweenmax.thumb.png.c849c5b56c6752e3f2276b82ee702625.png" height="30" alt="GSAP" />
+</p>
+
+---
+
+## 🛠️ DevOps & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,postman" height="30" />
+</p>
+
+---
+
+## 📌 About Me
+
+- 🎓 B.Sc. in Mathematics  
+- 🌱 Currently learning: GraphQL, Prisma, GSAP, Three.js  
+- 💼 Passionate about Full Stack Development & UI/UX Design  
+- ✉️ Contact: [raufurislam@gmail.com](mailto:raufurislam@gmail.com)  
+- 🌐 Portfolio: [raufurislam-portfolio.web.app](https://raufurislam-portfolio.web.app)
+
+---
+
+<p align="center">
+  <img src="https://i.ibb.co/wrg8L7h/your-logo.png" height="60" alt="Personal Logo Footer" />
+</p>
