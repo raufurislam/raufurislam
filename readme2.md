@@ -203,3 +203,4 @@ Would you like me to export this as a downloadable file too?
   <img src="https://i.ibb.co/6J8s08FB/indesign.png" height="42" alt="InDesign logo" />&nbsp;&nbsp;
   <img src="https://i.ibb.co/tp5bwLrF/photoshop-lightroom.png" height="42" alt="Lightroom Classic logo" />
 </p>
+...
