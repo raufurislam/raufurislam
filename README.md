@@ -54,7 +54,7 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="42" alt="Firebase" />
 </p>
 
-### **Backend Development**
+### **Backend & Database**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="Node.js" />&nbsp;&nbsp;
