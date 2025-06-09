@@ -41,7 +41,7 @@
 
 <h2 align="left">Code & Canvas</h2>
 
-### **Frontend Development**
+### **Languages & Technologies**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=typescript" height="42" alt="TypeScript" />&nbsp;&nbsp;
@@ -60,10 +60,14 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="Node.js" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=express" height="42" alt="Express" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" height="42" alt="MongoDB" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="MongoDB" />&nbsp;&nbsp;
+  <!-- <img src="https://skillicons.dev/icons?i=prisma" height="42" alt="MongoDB" />&nbsp;&nbsp; -->
   <img style="background:#242938; border-radius:8px;" src="https://img.icons8.com/?size=96&id=rHpveptSuwDz&format=png" height="42" alt="JWT logo" />
 </p>
 
-### **DevOps & Tools**
+### **Tools & Workflow**
+
+<!-- ### **DevOps & Tools** -->
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" height="42" alt="Git" />&nbsp;&nbsp;
@@ -75,12 +79,12 @@
 ### **UI/UX & Graphics Design**
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=figma" height="42" alt="Figma" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=xd" height="42" alt="Adobe XD" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=photoshop" height="42" alt="Photoshop" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=illustrator" height="42" alt="Illustrator" />&nbsp;&nbsp;
   <img src="https://i.ibb.co/6J8s08FB/indesign.png" height="42" alt="InDesign logo" />&nbsp;&nbsp;
   <img src="https://i.ibb.co/tp5bwLrF/photoshop-lightroom.png" height="42" alt="Lightroom Classic logo" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" height="42" alt="Figma" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=xd" height="42" alt="Adobe XD" />
 </p>
 
 ###
@@ -93,7 +97,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=raufurislam&theme=dracula&hide_border=true" width="520px" alt="streak graph"  /><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raufurislam&radius=16&theme=dracula&area=true&order=5&hide_border=true&bg_color=282A36" width="520px" alt="activity-graph graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=raufurislam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" width="520px" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raufurislam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true&order=2" width="520px" alt="languages graph" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raufurislam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=dracula&hide_border=true&order=2" width="520px" alt="languages graph" /> 
     <!-- <img src="https://komarev.com/ghpvc/?username=raufurislam&label=Profile%20views&color=78D8F8&style=flat" width="140px" /> -->
 
 </div>
@@ -127,5 +131,3 @@
 - GraphQL
 
 ###
-
-
