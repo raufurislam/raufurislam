@@ -133,3 +133,20 @@
 - GraphQL
 
 ###
+
+<!-- github-readme-stats-calculate-rank \
+ --commits 508 --prs 6 --issues 1 --stars 31 --reviews 0 \
+ --repos 20 --followers 1 -->
+
+<!--
+| Grade  | Approx. Percentile Needed |
+| ------ | ------------------------- |
+| **B–** | > 75%                     |
+| **B**  | > 62.5%                   |
+| **B+** | > 50%                     |
+| **A–** | > 37.5%                   |
+| **A**  | > 25%                     |
+| **A+** | > 12.5%                   |
+| **S**  | > 1%                      |
+
+ -->
