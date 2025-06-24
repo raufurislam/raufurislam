@@ -59,13 +59,14 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="Node.js" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=express" height="42" alt="Express" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="MongoDB" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" height="42" alt="MongoDB" />&nbsp;&nbsp;
-  <!-- <img src="https://skillicons.dev/icons?i=prisma" height="42" alt="MongoDB" />&nbsp;&nbsp; -->    <img style="background:#242938; border-radius:8px;" src="https://img.icons8.com/color/96/mongoose.png" height="42" alt="Mongoose logo" />&nbsp;&nbsp;
-  <img style="background:#242938; border-radius:8px;" src="https://img.icons8.com/?size=96&id=rHpveptSuwDz&format=png" height="42" alt="JWT logo" />
+  <!-- <img src="https://skillicons.dev/icons?i=prisma" height="42" alt="MongoDB" />&nbsp;&nbsp;     -->
+  <!-- <img style="background:#242938; border-radius:8px;" src="https://img.icons8.com/color/96/mongoose.png" height="42" alt="Mongoose logo" />&nbsp;&nbsp; -->
+  <!-- <img src="https://skillicons.dev/icons?i=prisma" height="42" alt="MongoDB" />&nbsp;&nbsp;     -->
+  <img style="background:#242938; border-radius:8px;" src="https://i.ibb.co/fG8SQwFb/mongoose-raufur.png" height="42" alt="Mongoose logo" />&nbsp;&nbsp;    
+  <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="MongoDB" />&nbsp;&nbsp;
+  <img style="background:#242938; border-radius:8px;" src="https://i.ibb.co/LDY62PPM/jwt-raufur.png" height="42" alt="JWT logo" />
 </p>
-
-### **Tools & Workflow**
 
 <!-- ### **DevOps & Tools** -->
 
