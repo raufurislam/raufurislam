@@ -68,7 +68,7 @@
   <img style="background:#242938; border-radius:8px;" src="https://i.ibb.co/LDY62PPM/jwt-raufur.png" height="42" alt="JWT logo" />
 </p>
 
-<!-- ### **DevOps & Tools** -->
+### **DevOps & Tools**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" height="42" alt="Git" />&nbsp;&nbsp;
