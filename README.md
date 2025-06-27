@@ -47,6 +47,7 @@
   <img src="https://skillicons.dev/icons?i=typescript" height="42" alt="TypeScript" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=js" height="42" alt="JavaScript" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=react" height="42" alt="React" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redux" height="42" alt="Sass" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html" height="42" alt="HTML" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" height="42" alt="CSS" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwindcss" height="42" alt="Tailwind CSS" />&nbsp;&nbsp;
@@ -135,9 +136,7 @@
 
 ###
 
-<!-- github-readme-stats-calculate-rank \
- --commits 508 --prs 6 --issues 1 --stars 31 --reviews 0 \
- --repos 20 --followers 1 -->
+<!-- github-readme-stats-calculate-rank  --commits 508 --prs 6 --issues 1 --stars 31 --reviews 0  --repos 20 --followers 1 -->
 
 <!--
 | Grade  | Approx. Percentile Needed |
