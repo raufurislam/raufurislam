@@ -44,15 +44,15 @@
 ### **Languages & Technologies**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript" height="42" alt="TypeScript" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" height="42" alt="JavaScript" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" height="42" alt="React" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=redux" height="42" alt="Sass" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" height="42" alt="HTML" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="42" alt="CSS" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwindcss" height="42" alt="Tailwind CSS" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sass" height="42" alt="Sass" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" height="42" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="Sass" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="Tailwind CSS" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="Sass" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" />
 </p>
 
 ### **Backend & Database**
@@ -136,10 +136,12 @@
 
 ###
 
-<!-- github-readme-stats-calculate-rank  --commits 508 --prs 6 --issues 1 --stars 31 --reviews 0  --repos 20 --followers 1 -->
+<!-- github-readme-stats-calculate-rank  --commits 676 --prs 6 --issues 1 --stars 125 --reviews 0  --repos 57 --followers 353 -->
 
 <!-- 58.36653955502078  -->
-<!-- 57.35493626616355 -->
+<!-- 57.35240866475617 -->
+<!-- 53.1872835596821 3-7-25 -->
+<!-- 51.754643104076735 4-7-25 -->
 
 <!--
 | Grade  | Approx. Percentile Needed |
