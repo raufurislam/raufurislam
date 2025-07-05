@@ -21,17 +21,17 @@
 
 <div align="left">
   <a href="https://web.facebook.com/raufurislam.nayem" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="48" height="40" alt="facebook logo"  />
   </a>
   <a href="https://www.linkedin.com/in/raufur-islam-698030319/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="40" alt="linkedin logo"  />
   </a>
 <!--   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" -->
   <a href="https://discordapp.com/users/raufur6299" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="40" alt="discord logo"  />
   </a>
   <a href="https://wa.me/+8801648068834" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="48" height="40" alt="whatsapp logo"  />
   </a>
 </div>
 
@@ -43,21 +43,21 @@
 
 ### **Languages & Technologies**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="Sass" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="Tailwind CSS" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="Sass" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" />
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=typescript" height="42" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="42" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="42" alt="React" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redux" height="42" alt="Sass" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="42" alt="HTML" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="42" alt="CSS" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwindcss" height="42" alt="Tailwind CSS" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sass" height="42" alt="Sass" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" height="42" alt="Firebase" />
+</div>
 
 ### **Backend & Database**
 
-<p align="left">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="Node.js" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=express" height="42" alt="Express" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" height="42" alt="MongoDB" />&nbsp;&nbsp;
@@ -67,16 +67,16 @@
   <img style="background:#242938; border-radius:8px;" src="https://i.ibb.co/fG8SQwFb/mongoose-raufur.png" height="42" alt="Mongoose logo" />&nbsp;&nbsp;    
   <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="MongoDB" />&nbsp;&nbsp;
   <img style="background:#242938; border-radius:8px;" src="https://i.ibb.co/LDY62PPM/jwt-raufur.png" height="42" alt="JWT logo" />
-</p>
+</div>
 
 ### **DevOps & Tools**
 
-<p align="left">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=git" height="42" alt="Git" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="VS Code" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postman" height="42" alt="Postman" />
-</p>
+</div>
 
 ### **UI/UX & Graphics Design**
 
