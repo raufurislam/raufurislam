@@ -64,9 +64,9 @@
   <!-- <img src="https://skillicons.dev/icons?i=prisma" height="42" alt="MongoDB" />&nbsp;&nbsp;     -->
   <!-- <img style="background:#242938; border-radius:8px;" src="https://img.icons8.com/color/96/mongoose.png" height="42" alt="Mongoose logo" />&nbsp;&nbsp; -->
   <!-- <img src="https://skillicons.dev/icons?i=prisma" height="42" alt="MongoDB" />&nbsp;&nbsp;     -->
-  <img style="background:#242938; border-radius:8px;" src="https://i.ibb.co/fG8SQwFb/mongoose-raufur.png" height="42" alt="Mongoose logo" />&nbsp;&nbsp;    
+  <img style="background:#242938; border-radius:8px;" src="https://i.ibb.co/fG8SQwFb/mongoose-raufur.png" height="42" width="42" alt="Mongoose logo" />&nbsp;&nbsp;    
   <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="MongoDB" />&nbsp;&nbsp;
-  <img style="background:#242938; border-radius:8px;" src="https://i.ibb.co/LDY62PPM/jwt-raufur.png" height="42" alt="JWT logo" />
+  <img style="background:#242938; border-radius:8px;" src="https://i.ibb.co/LDY62PPM/jwt-raufur.png" height="42" width="42"  alt="JWT logo" />
 </div>
 
 ### **DevOps & Tools**
@@ -85,8 +85,8 @@
   <img src="https://skillicons.dev/icons?i=xd" height="42" alt="Adobe XD" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=photoshop" height="42" alt="Photoshop" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=illustrator" height="42" alt="Illustrator" />&nbsp;&nbsp;
-  <img src="https://i.ibb.co/6J8s08FB/indesign.png" height="42" alt="InDesign logo" />&nbsp;&nbsp;
-  <img src="https://i.ibb.co/tp5bwLrF/photoshop-lightroom.png" height="42" alt="Lightroom Classic logo" />&nbsp;&nbsp;
+  <img src="https://i.ibb.co/6J8s08FB/indesign.png" height="42" width="42" alt="InDesign logo" />&nbsp;&nbsp;
+  <img src="https://i.ibb.co/tp5bwLrF/photoshop-lightroom.png" height="42" width="42" alt="Lightroom Classic logo" />&nbsp;&nbsp;
 </p>
 
 ###
