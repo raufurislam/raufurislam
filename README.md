@@ -25,13 +25,13 @@
   </a>&nbsp;&nbsp
   <a href="https://www.linkedin.com/in/raufur-islam-698030319/" target="_blank" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo" />
-  </a>
+  </a>&nbsp;&nbsp
   <a href="https://discordapp.com/users/raufur6299" target="_blank" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="40" alt="discord logo" />
-  </a>
+  </a>&nbsp;&nbsp
   <a href="https://wa.me/+8801648068834" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="40" alt="whatsapp logo" />
-  </a>
+  </a>&nbsp;&nbsp
 </div>
 
 ###
