@@ -22,7 +22,7 @@
 <div align="left">
   <a href="https://web.facebook.com/raufurislam.nayem" target="_blank" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" height="40" alt="facebook logo" />
-  </a>
+  </a>&nbsp;&nbsp
   <a href="https://www.linkedin.com/in/raufur-islam-698030319/" target="_blank" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo" />
   </a>
