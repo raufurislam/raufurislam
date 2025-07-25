@@ -21,19 +21,19 @@
 
 <div align="left">
   <a href="https://raufurislam-portfolio.web.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio%20&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=flat" height="28" alt="devto logo"  />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=Portfolio%20&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=flat" width="auto" height="30" alt="devto logo"  /> 
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/raufur-islam-698030319/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" width="auto" height="30"alt="linkedin logo"  />
+  </a>&nbsp;&nbsp;
   <a href="mailto:raufurislam@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" width="auto" height="30" alt="gmail logo"  />
+  </a>&nbsp;&nbsp;
   <a href="https://wa.me/8801648068834" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="25" alt="whatsapp logo"  />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" width="auto" height="30" alt="whatsapp logo"  />
+  </a>&nbsp;&nbsp;
   <a href="https://web.facebook.com/raufurislam.nayem" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="25" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" width="auto" height="30" alt="facebook logo"  />
   </a>
 
 </div>
