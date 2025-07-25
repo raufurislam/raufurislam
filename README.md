@@ -20,6 +20,25 @@
 <h2 align="left">Connect With Me </h2>
 
 <div align="left">
+  <a href="https://raufurislam-portfolio.web.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio%20&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=flat" height="28" alt="devto logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/raufur-islam-698030319/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:raufurislam@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://wa.me/8801648068834" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="25" alt="whatsapp logo"  />
+  </a>
+  <a href="https://web.facebook.com/raufurislam.nayem" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="25" alt="facebook logo"  />
+  </a>
+
+</div>
+
+<!-- <div align="left">
   <a href="https://web.facebook.com/raufurislam.nayem" target="_blank" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" height="40" alt="facebook logo" />
   </a>
@@ -32,7 +51,7 @@
   <a href="https://wa.me/+8801648068834" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="40" alt="whatsapp logo" />
   </a>
-</div>
+</div> -->
 
 ###
 
@@ -98,10 +117,9 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=raufurislam&theme=dracula&hide_border=true" width="520px" alt="streak graph"  /><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raufurislam&radius=16&theme=dracula&area=true&order=5&hide_border=true&bg_color=282A36" width="520px" alt="activity-graph graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=raufurislam&show_icons=true&theme=dracula&hide_border=true&order=1" width="520px" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raufurislam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=dracula&hide_border=true&order=2" width="520px" alt="languages graph" /> 
-    <!-- <img src="https://komarev.com/ghpvc/?username=raufurislam&label=Profile%20views&color=78D8F8&style=flat" width="140px" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raufurislam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=dracula&hide_border=true&order=2" width="520px" alt="languages graph" />
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=raufurislam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" width="520px" alt="stats graph" /> <br> -->
+<img src="https://github-readme-stats.vercel.app/api?username=raufurislam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" width="520px" alt="stats graph" /> <br>
 
 </div>
 
