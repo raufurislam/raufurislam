@@ -110,7 +110,6 @@
 ###
 
 <h2 align="left">Current Stats</h2>
-<!-- <h2 align="left">📈 Current Stats</h2> -->
 
 <div align="center">
   
@@ -154,11 +153,6 @@
 ###
 
 <!-- github-readme-stats-calculate-rank  --commits 676 --prs 6 --issues 1 --stars 125 --reviews 0  --repos 57 --followers 353 -->
-
-<!-- 58.36653955502078  -->
-<!-- 57.35240866475617 -->
-<!-- 53.1872835596821 3-7-25 -->
-<!-- 51.754643104076735 4-7-25 -->
 
 <!--
 | Grade  | Approx. Percentile Needed |
