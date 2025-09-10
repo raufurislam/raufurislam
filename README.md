@@ -16,6 +16,12 @@
 </p>
 
 ###
+<div align="center">
+  <!-- <img src="https://profile-counter.glitch.me/raufurislam/count.svg?"  /> -->
+  <!-- <br/> -->
+  <!-- <img src="https://komarev.com/ghpvc/?username=raufurislam&label=Profile%20views&color=78D8F8&style=for-the-badge" width="140px" /> -->
+  <img src="https://komarev.com/ghpvc/?username=raufurislam&label=Profile%20views&color=78D8F8&style=flat" width="140px" />
+</div>
 
 <h2 align="left">Connect With Me </h2>
 
@@ -122,12 +128,7 @@
 
 </div>
 
-<div align="center">
-  <!-- <img src="https://profile-counter.glitch.me/raufurislam/count.svg?"  /> -->
-  <!-- <br/> -->
-  <!-- <img src="https://komarev.com/ghpvc/?username=raufurislam&label=Profile%20views&color=78D8F8&style=for-the-badge" width="140px" /> -->
-  <img src="https://komarev.com/ghpvc/?username=raufurislam&label=Profile%20views&color=78D8F8&style=flat" width="140px" />
-</div>
+
 <h2 align="left">Current Activities</h2>
 <!-- <h2 align="left">🚀 Current Activities</h2> -->
 
