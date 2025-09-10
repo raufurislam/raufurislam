@@ -16,7 +16,7 @@
 </p>
 
 ###
-<div align="center">
+<div align="left">
   <!-- <img src="https://profile-counter.glitch.me/raufurislam/count.svg?"  /> -->
   <!-- <br/> -->
   <!-- <img src="https://komarev.com/ghpvc/?username=raufurislam&label=Profile%20views&color=78D8F8&style=for-the-badge" width="140px" /> -->
