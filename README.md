@@ -16,6 +16,7 @@
 </p>
 
 ###
+
 <div align="left">
   <!-- <img src="https://profile-counter.glitch.me/raufurislam/count.svg?"  /> -->
   <!-- <br/> -->
@@ -84,8 +85,8 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="Node.js" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=express" height="42" alt="Express" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=prisma" height="42" alt="Prisma" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" height="42" alt="MongoDB" />&nbsp;&nbsp;
-  <!-- <img src="https://skillicons.dev/icons?i=prisma" height="42" alt="MongoDB" />&nbsp;&nbsp;     -->
   <!-- <img style="background:#242938; border-radius:8px;" src="https://img.icons8.com/color/96/mongoose.png" height="42" alt="Mongoose logo" />&nbsp;&nbsp; -->
   <!-- <img src="https://skillicons.dev/icons?i=prisma" height="42" alt="MongoDB" />&nbsp;&nbsp;     -->
   <img style="background:#242938; border-radius:8px;" src="https://i.ibb.co/fG8SQwFb/mongoose-raufur.png" height="42" width="42" alt="Mongoose logo" />&nbsp;&nbsp;    
@@ -127,7 +128,6 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=raufurislam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" width="520px" alt="stats graph" /> <br> -->
 
 </div>
-
 
 <h2 align="left">Current Activities</h2>
 <!-- <h2 align="left">🚀 Current Activities</h2> -->
