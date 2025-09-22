@@ -72,6 +72,7 @@
   <img src="https://skillicons.dev/icons?i=typescript" height="42" alt="TypeScript" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=js" height="42" alt="JavaScript" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=react" height="42" alt="React" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" height="42" alt="nextjs" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=redux" height="42" alt="Sass" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html" height="42" alt="HTML" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" height="42" alt="CSS" />&nbsp;&nbsp;
