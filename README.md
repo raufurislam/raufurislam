@@ -5,7 +5,7 @@
 ###
 
 <h1 align="center">Hello World... I am Raufur Islam Nayem 😊</h1>
-<h3 align="center">Junior Full Stack Developer | UI/UX & Graphics Enthusiast</h3>
+<h3 align="center">Full Stack Developer | UI/UX & Graphics Enthusiast</h3>
 <p align="center">Passionate about crafting dynamic web applications and engaging user experiences</p>
 
 ###
